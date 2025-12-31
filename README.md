@@ -49,4 +49,10 @@ Comprovar se a rentabilidade do negócio está sustentada por um conjunto restri
 ## Conclusão
 A análise evidencia que os ganhos da AdventureWorks estão fortemente concentrados em poucos mercados, com uma única categoria predominante na geração de receita. Austrália e Estados Unidos respondem por aproximadamente 63% do total das vendas, enquanto a categoria Bikes representa mais de 96% da receita total. Esse cenário expõe a empresa a riscos estratégicos, pois a volatilidade do mercado pode impactar diretamente seus resultados. Dessa forma, torna-se necessária a diversificação geográfica e a redistribuição dos esforços comerciais, visando o fortalecimento das vendas em outras regiões e categorias.
 
+## Tecnologias Utilizadas
+- SQL Server
+- Power BI
+- GitHub
+- Dataset AdventureWorks (Microsoft)
+
 
